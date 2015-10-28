@@ -1,1 +1,3 @@
-The https:// clone URLs are available on all repositories, public and private. They are smart, so they will provide you with either read-only or read/write access, depending on your permissions to the repository.
+The https:// clone URLs are available on all repositories, public and private. 
+They are smart, so they will provide you with either read-only or read/write access, 
+depending on your permissions to the repository.
